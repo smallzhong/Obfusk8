@@ -2,6 +2,24 @@
 
 Obfusk8 is a lightweight, header-only C++17 library designed to significantly enhance the obfuscation of your applications, making reverse engineering a substantially more challenging endeavor. It achieves this through a diverse set of compile-time and runtime techniques aimed at protecting your code's logic and data.
 
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+## The following contains **Cthulhu-related** content, which may cause **discomfort**.
+
+
+
+
    ![banner](https://github.com/user-attachments/assets/09a3c47f-fa56-42f5-b50a-b25d29922de5)
 
 
